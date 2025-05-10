@@ -29,4 +29,6 @@ Click on any shoe to see up-close images from every angle, view real-time data o
 
 Data is sourced from Kaggle.
 
-Dashboard Preview : 
+Dashboard Preview : https://github.com/Saharejazkhan/Nike-Sales-Dashboard/blob/main/Nike%20Dashboard%20Snapshot.png
+
+
